@@ -1,3 +1,3 @@
 <div id="header" align="center">
-<a href="https://profi.ru/profile/GolosovaNA"><img src="beautiful-kitten-with-flowers-outdoors.jpg" /></a>
+<a href="photo_2024-08-14_11-37-20.jpg" /></a>
 </div>
